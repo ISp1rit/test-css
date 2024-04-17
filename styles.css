@@ -1,3 +1,4 @@
-body {
-    background: red;
+body,
+body.loaded {
+    background: #060028;
 }
